@@ -1,0 +1,27 @@
+{
+  "name": "@gingertag/docusaurus",
+  "version": "1.0.0",
+  "description": "Docusaurus plugin to integrate GingerTag analytics",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingertag/docusaurus.git"
+  },
+  "keywords": [
+    "gingertag",
+    "docusaurus",
+    "analytics"
+  ],
+  "author": "Saleel <saleel@gingertag.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gingertag/docusaurus/issues"
+  },
+  "homepage": "https://github.com/gingertag/docusaurus#readme"
+}
